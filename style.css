@@ -8,3 +8,9 @@
 section {
   padding-top: 5rem;
 }
+.galeri {
+  width: 100%;
+}
+#galeri .row > * {
+  padding: 0;
+}
